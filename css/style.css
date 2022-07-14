@@ -1,0 +1,12 @@
+body{
+    background-color: #808080;
+}
+h1{ 
+    color:white;
+}
+div{
+    width: 10em;
+    height: 10em;
+    background-color: #fea500;
+    margin-top:0.5em;
+}
